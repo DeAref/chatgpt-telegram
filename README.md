@@ -1,4 +1,4 @@
-# ChatGPT-bot
+# ربات تلگرامی chatGpt
 
 > Interact with ChatGPT
 
